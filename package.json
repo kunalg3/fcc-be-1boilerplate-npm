@@ -1,5 +1,5 @@
 {
-	"keywords": ["freecodecamp","free","fruits"],
+	"license":"MIT",
 	"description": "this is fcc be 1",
 	"author": "Kunal Goyal",
 	"name": "fcc-learn-npm-package-json",
